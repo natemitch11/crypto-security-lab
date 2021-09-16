@@ -1,0 +1,4 @@
+Astoria Company had a massive data breach where 30 Million people were affected. Their users Social Security Numbers were stolen, Bank Account info stolen, and Emails containing sensitive information were all available for purchase on the Dark Web. It is thought that the attack happened due to leaked credentials that were vulnerable on Astorias domains. Specifically something called Adminer, which allows anyone full administrative access to database files on a public domain without any authentication. 
+
+
+Source: https://nightlion.com/blog/2021/astoria-company-breach/
